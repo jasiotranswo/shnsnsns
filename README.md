@@ -1,2 +1,0 @@
-Location tracker by HowToHack
-
